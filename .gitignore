@@ -31,7 +31,7 @@ Icon
 # Netbeans Files
 # --------------------
 nbproject/private/
-#build/
+build/
 nbbuild/
 dist/
 nbdist/
@@ -63,7 +63,7 @@ data/
 test/coverage/
 modules/public/
 modules/views/
-/public/build/
+#/public/build/
 /packages/contrib/
 /packages/**/**/public/assets/lib
 
